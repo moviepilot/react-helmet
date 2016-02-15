@@ -3,4 +3,5 @@ src/
 build/
 .arcconfig
 .babelrc
+.eslintrc
 *.yml
